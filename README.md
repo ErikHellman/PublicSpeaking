@@ -6,10 +6,10 @@ Do you want me to give a talk at your conference or meetup? Feel free to reach o
 
 # Talks
 
-- [A recipe for great code](a_recipe_for_great_code)
-- [Android and the WebView](android_and_the_webview)
-- [Avoiding the pitfalls of Bluetooth Low Energy on Android](avoiding_the_pitfalls_of_bluetooth_low_energy_on_android)
-- [Cross-Platform development with Progressive Web Apps](cross-platform_development_with_progressive_web_apps)
-- [Once upon a time](once_upon_a_time)
-- [Processing camera input on Android](processing_camera_input_on_android)
+- [A recipe for great code](a_recipe_for_great_code.md)
+- [Android and the WebView](android_and_the_webview.md)
+- [Avoiding the pitfalls of Bluetooth Low Energy on Android](avoiding_the_pitfalls_of_bluetooth_low_energy_on_android.md)
+- [Cross-Platform development with Progressive Web Apps](cross-platform_development_with_progressive_web_apps.md)
+- [Once upon a time](once_upon_a_time.md)
+- [Processing camera input on Android](processing_camera_input_on_android.md)
 
