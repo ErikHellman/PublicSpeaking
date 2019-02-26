@@ -6,4 +6,4 @@ Do you want me to give a talk at your conference or meetup? Feel free to reach o
 
 # Talks
 
-- [a_recipe_for_great_code](A recipe for great code)
+- [A recipe for great code](a_recipe_for_great_code)
