@@ -1,5 +1,8 @@
 **Title:** Android and the WebView
 
+**Presented at:**
+[DroidCon Turin 2019](https://it.droidcon.com/2019/it/talks/458-android-and-the-webview)
+
 **Abstract:**
 
 While the native widgets for Android are extremely powerful and cover most of the use cases we can imagine, there are still some areas where web content is our only option. That means we need to embed a WebView in our application and create a bridge between the native code and the JavaScript running on the web page we load.
