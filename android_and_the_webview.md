@@ -1,7 +1,8 @@
 **Title:** Android and the WebView
 
-**Presented at:**
-[DroidCon Turin 2019](https://it.droidcon.com/2019/it/talks/458-android-and-the-webview)
+**Presented or will be presented at:**
+
+[DroidCon Turin 2019, April 5th](https://it.droidcon.com/2019/it/talks/458-android-and-the-webview)
 
 **Abstract:**
 
